@@ -42,9 +42,9 @@ namespace Revision
 
         private static void DoTask()
         {
-            //QuestionNoC();
+            //QuestionNoC(); 
             //QuestionNoA();
-            //CascadingIfElse();
+            CascadingIfElse();
             //ShortCircit();
 
 
